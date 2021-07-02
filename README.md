@@ -64,6 +64,8 @@ yarn package
 
 For more details, please check this: [程序设计课程设计报告](./reports/程序设计课程设计报告.md)
 
+For the Word one, check this: [程序设计课程设计报告Word文件](./reports/程序设计课程设计报告.docx)
+
 ## Self Reflection
 
 Leave blank due to exam week.
