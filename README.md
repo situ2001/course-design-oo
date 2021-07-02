@@ -1,11 +1,13 @@
 # Guangzhou University OO Course Design
 
-广州大学面向对象程序设计课程设计(Develop in three days...)
+广州大学面向对象程序设计课程设计
 
 ![](https://shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![](https://shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
 
 ---
+
+Developed in three days...Really in a hurry.
 
 Main technology stack: JavaScript, TypeScript, Electron, React, Antd.
 
