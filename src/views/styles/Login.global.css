@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  padding-top: 16px;
+  flex-direction: column;
+  position: relative;
+}
+
+.login-form {
+  margin: auto;
+  text-align: center;
+  margin-bottom: 16px;
+  align-self: center;
+  width: 200px;
+}
+
+.hint {
+  margin: auto;
+  text-align: center;
+  opacity: 0.5;
+}
+
+.login-hint {
+  margin: auto;
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 16px;
+}

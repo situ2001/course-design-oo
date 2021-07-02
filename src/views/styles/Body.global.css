@@ -1,0 +1,9 @@
+.content {
+  display: flex;
+}
+
+.extra {
+  display: flex;
+  width: max-content;
+  justify-content: flex-end;
+}
