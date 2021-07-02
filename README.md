@@ -34,7 +34,7 @@ Enjoy it.
 yarn start
 ```
 
-Or build a package. The packages will be appear in dir `./release`
+Or build a package. The packages will be appeared in dir `./release`
 
 ```powershell
 yarn package
