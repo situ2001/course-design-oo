@@ -6,9 +6,9 @@ import formatTime from '../utils/formatTime';
 
 const dateFormatter = (d: number) => {
   const date = new Date(d);
-  return `${date.getFullYear()}-${date.getMonth()}-${date.getDate()} ${formatTime(
-    date
-  )}`;
+  return `${date.getFullYear()}-${
+    date.getMonth() + 1
+  }-${date.getDate()} ${formatTime(date)}`;
 };
 
 // table columns
